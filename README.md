@@ -1,7 +1,7 @@
 # Preferences
 Tools and preferences for environments
 
-### Tool chains
+### Tool chain
 * VS Code
 * Firefox
 * Git
