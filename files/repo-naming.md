@@ -10,7 +10,7 @@ where **`<name>`** is the designated version name such as "Lipid" or "Carbo".  T
   streams can be described in the given order.  Minor code corrections are
   denoted with the time in which they were merged [**hhmmss**].  Working streams
   are shown as single characters for either developer release (**d**), standard
-  build (**b**), or bleeding edge alpha (**a**).
+  build (**b**), or bleeding alpha (**a**).
 
 ### Tags
 
