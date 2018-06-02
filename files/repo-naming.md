@@ -19,3 +19,5 @@ where **`<name>`** is the designated version name such as "Lipid" or "Carbo".  T
 where **`<config>`** is the independent component name (i.e. "System", "Input", or
   "Thread").  The **`<name>`** segment corresponds to the version name that the
   component runs on.
+
+### Manifests
