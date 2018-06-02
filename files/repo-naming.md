@@ -2,7 +2,7 @@
 
 ### Build Output
 
-> **`<name>.YYYYMMDD.bb[.hhmmss][.Ws]`**
+    **`<name>.YYYYMMDD.bb[.hhmmss][.Ws]`**
 
 where **`<name>`** is the designated version name such as "Lipid" or "Carbo".  The
   date of release follows in the format of **YYYYMMDD**.  Next the patch number is
@@ -14,7 +14,7 @@ where **`<name>`** is the designated version name such as "Lipid" or "Carbo".  T
 
 ### Tags
 
-**`config.<name>`**
+    **`config.<name>`**
 
 where **`config`** is the independent component name (i.e. "System", "Input", or
   "Thread").  The **`<name>`** segment corresponds to the version name that the
